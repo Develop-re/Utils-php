@@ -1,0 +1,14 @@
+{
+    "name": "Rddevelop/Utils",
+    "description": "A collection of useful php functions to help you code quicker",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karim",
+            "email": "whiledam@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
